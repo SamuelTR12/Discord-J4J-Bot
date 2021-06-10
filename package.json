@@ -1,7 +1,7 @@
 {
   "version": "0.0.1",
   "description": "A simple Node app built on Express, instantly up and running.",
-  "main": "bot.js",
+  "main": "amou.js",
   "scripts": {
     "start": "node amou.js"
   },
